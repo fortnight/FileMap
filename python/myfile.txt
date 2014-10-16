@@ -1,0 +1,12 @@
+/home/Fortnight/Develop/FileMap/python
+.
+./parse.py
+./.parse.py.swp
+./myfile.txt
+./.test.swp
+./test
+./asdf
+./asdf/qwer
+./asdf/qwer/vcxz
+./asdf/zxcv
+./file-script
